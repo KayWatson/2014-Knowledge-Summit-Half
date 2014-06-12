@@ -15,6 +15,7 @@
 	height: 370px;
 	margin-top: -180px;
 	}
+
 	h1{
 		font-size: 2.2em;
 	}
@@ -23,19 +24,24 @@
 		font-size: 2.2em;
 		margin-top: -10px;
 	}
-	.logo{
-	background-image:none;
-	}
+
 	h1, h2, h4{  
-	-webkit-text-stroke: 1px white; 
-	font-weight: 800;
+		-webkit-text-stroke: 1px white; 
+		font-weight: 800;
 	}
+
+	.logo{
+		background-image:none;
+	}
+
 	.wrapper-schedule{
-	margin-top: 10px;
+		margin-top: 10px;
 	}
+
 	.schedule_left--container p, .schedule_right--container p{
-	font-size: .9em;
+		font-size: .9em;
 	}
+
 	.schedule_right--item{
 		padding: 0;
 		margin: 0;
@@ -44,13 +50,11 @@
 	#navigation-table input{
 		padding: 10px 165px;
 	}
+
 	form{
 		label p{
 		margin: 0;
 		padding-bottom: 30px;
-		
 		}
 	}
-
-
 }
